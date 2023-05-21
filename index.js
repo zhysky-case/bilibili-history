@@ -3,7 +3,7 @@ import dayjs from "dayjs";
 import { appendFile, unlink, writeFile } from 'node:fs/promises';
 import { dirname, join } from "node:path";
 import { fileURLToPath } from 'node:url';
-import os from "os";
+import { EOL } from "os";
 import { getHistory } from './api.js';
 import { fileIsExist } from './util.js';
 
@@ -43,7 +43,7 @@ await (async function historyTo(time) {
       return;
     }
   });
-  await appendFile(historyFileName + '.txt', res.join(os.EOL) + os.EOL);
+  await appendFile(historyFileName + '.txt', res.join(EOL) + EOL);
   page++;
   console.log('page: ', page);
   console.log(history.data);
