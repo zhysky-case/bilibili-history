@@ -1,0 +1,284 @@
+https://www.bilibili.com/video/BV1py4y1P7a5 | ffmpeg入门，怎么用C语言做个播放器
+https://www.bilibili.com/video/BV1Xm4y1g7K6 | 【镜流雪山剑舞】横跨半个中国去卷雪景
+https://www.bilibili.com/video/BV1Eu4y1Q7e6 | 大威天龙！这就是妖精钢管舞的实力！紧身牛仔裤的热舞诱惑-坏空空
+https://www.bilibili.com/video/BV1AC4y1o7dK | 20分钟学会useReducer-React18基础系列丨讲师·景水
+https://www.bilibili.com/video/BV1Zc411f7e4 | 【小野森森】如何能学透React Hooks?【前端基础|更新中】
+https://www.bilibili.com/video/BV1cw411X7G1 | 【TotalCommander 公开课 2. TC的定位和基本操作】文件管理天花板工具，保姆级教程！
+https://www.bilibili.com/video/BV1xM41197cZ | 40分钟学会React18组件通信与插槽 可能是你学会React最好的机会 前端开发必会框架 无废话精品视频
+https://www.bilibili.com/video/BV1oH4y1R7pi | 小小的位运算居然能解决这么多问题！
+https://www.bilibili.com/video/BV1Ci4y1y7GF | 【代码】🔴 带有React、Node的实时聊天应用程序Socket.io和MongoDB
+https://www.bilibili.com/video/BV1ej411t7Df | 实时聊天应用程序VueChat（含源码）
+https://www.bilibili.com/video/BV1qu4y1p7fB | 黑马前端从0到1实现大文件上传，包括前端代码和后端代码（用nodejs实现）
+https://www.bilibili.com/video/BV1H94y1b7cV | 测试自动化神器！JetBrains Aqua 中的 Playwright 支持
+https://www.bilibili.com/video/BV1ZB4y1Z7o8 | 黑马程序员前端React18入门到实战视频教程，从react+hooks核心基础到企业级项目开发实战（B站评论、极客园项目等）及大厂面试全通关
+https://www.bilibili.com/video/BV1Su4y1s7ra | 【小野森森】如何学好React Hooks？【前端开发 | 更新中】
+https://www.bilibili.com/video/BV1gP411Q7n6 | 记住汽车A柱B柱C柱，6个隐藏技巧，快速提升车感避免刮蹭
+https://www.bilibili.com/video/BV1im4y1g7zM | 【运筹学】-线性规划与单纯形法(五)(四种解的特殊情况)
+https://www.bilibili.com/video/BV1wC4y157Mw | 使用Cypress做Web Components组件测试，体验很棒！
+https://www.bilibili.com/read/cv370231090 | 白色巨塔
+https://www.bilibili.com/read/cv1291619337 | 法律至上1
+https://www.bilibili.com/video/BV1tS4y1m7Hs | 彻底解决Windows11浏览器闪屏问题
+https://www.bilibili.com/video/BV1o8411q7RU | 【已解决】Chrome和Edge浏览器间歇性出现黑色网格状花屏/黑色大面积闪屏
+https://www.bilibili.com/video/BV12H4y1Z7mD | 解决Chrome/Edge浏览器间歇性出现黑色或白色闪屏、网格纹问题
+https://www.bilibili.com/video/BV1NP411h7gL | 黑马前端Debugger实战视频教程，前端开发debugger调试秘籍
+https://www.bilibili.com/video/BV1NV4y1B73Y | React入门实战教程-02 Next.js基础知识
+https://www.bilibili.com/video/BV1Xw411C76Z | 前端工程师也应该了解的docker
+https://www.bilibili.com/video/BV1684y1S7Rr | JS自动驾驶项目 无依赖库 纯js 合集
+https://www.bilibili.com/video/BV1YN411b7PT | 【Anthony Fu】托尼的开源之路: 集论 - ViteConf 2023【英文】
+https://www.bilibili.com/video/BV1ph4y167Zd | 动态规划心得 基于JavaScript 记忆 memo 算法
+https://www.bilibili.com/video/BV1tz4y157xU | Nest 通关秘籍-88 为什么前端监控系统要用 RabbitMQ？
+https://www.bilibili.com/video/BV1VH4y1U797 | 2023年「原神生日会」
+https://www.bilibili.com/video/BV1tu411u7Qm | 《崩坏3》动画短片-「婚 前 旅 行」
+https://www.bilibili.com/video/BV1nh4y1h7Ky | 2023 崩坏3同人生日会 「琪亚娜的七周年绮遇」
+https://www.bilibili.com/video/BV1j8411i7FG | 【崩坏3生日会】串烧大合唱！唱遍七年回忆！
+https://www.bilibili.com/video/BV1BR4y1X7VG | 房东千方百计克扣押金怎么办？
+https://www.bilibili.com/video/BV1YK4y1F7Gv | 有一种教师的美
+https://www.bilibili.com/video/BV1pP41187B5 | 【星铁人物传】深挖卡芙卡剧情细节！为何在“妈”与“坏女人”徘徊？你真的看懂卡芙卡的故事么？
+https://www.bilibili.com/video/BV14841117gz | 英语自然拼读极简教程（免费、简洁、高效 | 半小时内打牢基础）
+https://www.bilibili.com/video/BV1Uw41127Vd | 《Windows内核编程》1.环境搭建以及第一个内核程序
+https://www.bilibili.com/video/BV1Aw411e7NE | c++深入浅出实战系列—实现线性代数库(1)一切的开始矩阵
+https://www.bilibili.com/video/BV1pp4y1E7KN | 控制中心修改以及桌面细微部件修改-华为主题修改#2
+https://www.bilibili.com/video/BV1Sh4y1K7MM | 华为主题模块修改介绍！华为主题修改#1
+https://www.bilibili.com/video/BV1pF411m7wV | 30分钟学会React18核心语法 可能是你学会React最好的机会 前端开发必会框架 无废话精品视频
+https://www.bilibili.com/video/BV1t84y1U7wZ | 详解钢笔的工作原理 笔尖、笔舌及吸墨的作用
+https://www.bilibili.com/video/BV1Gp4y1A7RA | WebAssembly：全新 Web 开发范式
+https://www.bilibili.com/video/BV1Bu4y1r7wQ | 【1080P修复 收藏版】张信哲 -《用情》MV
+https://www.bilibili.com/video/BV1py4y1F7UB | 从 C++ 到 C 之抽象思维 | 现代 C 语言程序设计
+https://www.bilibili.com/video/BV1eV411A7gw | 动手实现一个文件系统，提高自己代码能力，加深对底层的理解，探索自己的就业新可能
+https://www.bilibili.com/video/BV12P411T78X | 实现基于UDP的网络文件传输器，程序员的经验大礼包项目
+https://www.bilibili.com/video/BV1JN4y1Q792 | C++个人项目展示—基于多设计模式下的同步&异步日志系统
+https://www.bilibili.com/video/BV188411q7C4 | 01 聊聊那些令人凌乱的网络基础概念
+https://www.bilibili.com/video/BV13j41187Na | 字典树：解决你的字符串匹配问题。产品的输入框智能提示需求没思路？试试字典树吧！轻松解决搜索输入框智能提示问题
+https://www.bilibili.com/video/BV1vp4y1w7K4 | Go异步编程
+https://www.bilibili.com/video/BV1Fa4y1E7JV | 林忆莲、李宗盛-当爱已成往事(1080p修复)
+https://www.bilibili.com/video/BV1xM4y1m7oC | 人生已经太匆匆，我好害怕总是泪眼朦胧 | 『 当爱已成往事 』
+https://www.bilibili.com/video/BV1NG4y1d7ZW | 【高清修复】张宇 - 《用心良苦》MV
+https://www.bilibili.com/video/BV1Nu411D7GS | 【4K珍藏】林忆莲《为你我受冷风吹》神级现场！唱出多少伤心往事！
+https://www.bilibili.com/video/BV1jb411u7nZ | 第64期 Pineider La Grande Bellezza 钢笔测评
+https://www.bilibili.com/video/BV1Fo4y1j7YH | 印度又一神曲《Dheevara》，全球播放超二十亿，旋律太上头了
+https://www.bilibili.com/video/BV1Xx411n7ck | 《La grande Bellezza 绝美之城》原声 The Beatitudes
+https://www.bilibili.com/read/cv49133872 | 绝美之城
+https://www.bilibili.com/read/cv1275796788 | linux网络协议栈从应用层到内核层
+https://www.bilibili.com/read/cv1274466533 | Linux环境的编程详解，底层技术栈
+https://www.bilibili.com/video/BV1CE411i7i1 | 【新版:已完结】原生JavaScript开发『新闻头条』WEB APP移动端项目【原生JS实战课程】
+https://www.bilibili.com/video/BV1T14y1Z7zJ | 张信哲《用情》｜如果一生只够爱一人【无字导演版】
+https://www.bilibili.com/video/BV1h24y1778a | 在百万豪装录音棚大声听 仙剑奇侠传ost 青鸟飞鱼《此生不换》【Hi-res】
+https://www.bilibili.com/video/BV1n24y1V7a6 | 在百万豪装录音棚大声听陈奕迅《富士山下》【Hi-res】
+https://www.bilibili.com/video/BV1Yh4y137zV | 在百万豪装录音棚大声听 王子变青蛙ost 183Club《迷魂计》【Hi-res】
+https://www.bilibili.com/video/BV1n14y1r7qa | 中性笔如何写出笔锋？记住这四个字就好了
+https://www.bilibili.com/video/BV1Xu411N7q5 | 解释器+建造者模式的配合使用
+https://www.bilibili.com/video/BV15N411q7g8 | 前端各种风骚操作【渡一教育】
+https://www.bilibili.com/video/BV1y14y117vP | 现代前端如何换肤？sass加css变量来实现
+https://www.bilibili.com/video/BV1Wu4y1i7vA | 解决canvas清晰度的问题【渡一教育】
+https://www.bilibili.com/video/BV1M84y1f7mw | 喜大普奔！纯 CSS  实现瀑布流布局的方法终于来啦【渡一教育】
+https://www.bilibili.com/video/BV1dG411o7mf | 自动注入Less全局变量【渡一教育】
+https://www.bilibili.com/video/BV1yV411w7RG | 英语学习的3个大陷阱，请大数据推给零基础学英语的人
+https://www.bilibili.com/video/BV1U44y1c7w7 | 圈复杂度【渡一教育】
+https://www.bilibili.com/video/BV1cV4y1B7P4 | Node.js
+https://www.bilibili.com/video/BV13t4y137XY | CSS Grid用在这里太妙了!
+https://www.bilibili.com/video/BV1fD4y1M7je | 又一个相见恨晚的CSS选择器 (:placeholder-shown)
+https://www.bilibili.com/video/BV1YE411G77o | 超长填坑！10款高端都市通勤战术机能斜挎包 横评大合集
+https://www.bilibili.com/video/BV16u411w7Bt | luckeysheet+nodejs+vue3,开发多人协同的在线表格
+https://www.bilibili.com/video/BV18p4y137pr | 顶级品质试听《永世のクレイドル》SD高达G世纪--永世的摇篮【Hi-Res】
+https://www.bilibili.com/video/BV1j14y1r75V | 遥遥领先！史诗级更新，红巨星套装插件 Red Giant 2024 官方中文版，Win和Mac抢先体验
+https://www.bilibili.com/video/BV1D8411D7bt | 顶级品质试听《Dearest》犬夜叉神级片尾曲ed--美到了极致，便只有悲剧才能让美成为永恒【Hi-Res】
+https://www.bilibili.com/video/BV16p4y1J7WU | 顶级品质试听《万物初始之风》彩云国物语经典主题曲 はじまりの風--无论何时我都相信你【Hi-Res】
+https://www.bilibili.com/video/BV14m4y1P75V | 顶级品质试听《南风》全金属狂潮经典主题曲OP， 永不停下脚步，宛如那一阵南风【Hi-Res】
+https://www.bilibili.com/video/BV1yw411U7J1 | 疯狂C语言
+https://www.bilibili.com/video/BV1Ej41127vS | 极简C/C++ http服务器
+https://www.bilibili.com/video/BV1wN411W7p2 | 一网打尽  Angular 新功能
+https://www.bilibili.com/video/BV14z4y1573k | 𝑺𝒑𝒆𝒄𝒊𝒂𝒍𝒊𝒔𝒕
+https://www.bilibili.com/video/BV1Eh4y1N7V7 | 函数指针和回调函数
+https://www.bilibili.com/video/BV1Lw411i7d9 | 【IT老齐395】24年CentOS停更，哪款Linux可以平替？
+https://www.bilibili.com/video/BV1bG411R7Nm | 【前端小野森森】TypeScript『特殊类型』总结【TS基础】
+https://www.bilibili.com/video/BV13H4y1X7bu | 深入理解BFC【渡一教育】
+https://www.bilibili.com/video/BV1Yk4y1A7T7 | 怎样写出笔画的轻重变化？掌握了手指发力方法，这类笔画都能搞定
+https://www.bilibili.com/video/BV1Jp4y137n2 | this指向【渡一教育】
+https://www.bilibili.com/video/BV1eh4y1C75N | 模块自动导入【渡一教育】
+https://www.bilibili.com/video/BV1Gj411q78P | 原型链的全貌图【渡一教育】
+https://www.bilibili.com/video/BV1cu4y1i7Uf | never类型的妙用【渡一教育】
+https://www.bilibili.com/video/BV1RG41197Fs | 🥰 路过被扣了，好无助 😢
+https://www.bilibili.com/video/BV13M4y187MF | o(╥﹏╥)o这换了十年前苦茶子都能被骗光
+https://www.bilibili.com/video/BV1y94y1s7Ky | 前端面试高频-手写promise.all(),逐行注释版
+https://www.bilibili.com/video/BV1uH4y1X7x1 | 30w年薪大专前端开发从深圳回武汉能拿多少？
+https://www.bilibili.com/video/BV1iJ411E721 | 【处处吻/香港女星混剪】那个时代的女星，一吻倾众生
+https://www.bilibili.com/video/BV1Q94y1s7rn | 【前端小野森森】整理『typeScript』知识点与技巧【TS基础】
+https://www.bilibili.com/video/BV1mH4y1Q7Z7 | 黑马程序员前端面试必看视频教程（手写Promise+js设计模式+继承+函数柯里化等），10小时JavaScript面试全通关
+https://www.bilibili.com/video/BV1nG411E7Ar | 【内含剧透】总销量200万册的理由：“青春猪头少年”系列各卷优缺点简析【青春猪头少年02】
+https://www.bilibili.com/video/BV1zg411c7mE | 【零基础】楷书练字入门教程 ，写好字从笔画偏旁开始
+https://www.bilibili.com/video/BV1LF41167xX | 绝对领域谁不会拍啊？金毛双马尾傲娇英梨梨COS｜富士XH2S 唯卓仕13MM
+https://www.bilibili.com/video/BV14w411D7qk | 小白想要理解商业，从这十个问题开始
+https://www.bilibili.com/video/BV1EN411q79q | 360°全方位欣赏镜流，白毛赤瞳大姐姐，软软的谁不爱呢！
+https://www.bilibili.com/video/BV1g14y1y71W | 【小野森森】1小时搞定多语言《数组》【Java|Golang|JavaScript】
+https://www.bilibili.com/video/BV16N4y1R7jo | 7年前端只会Vue? 花一周快速入门 react 实现配置中心项目
+https://www.bilibili.com/video/BV1zu4y1C7sw | 『赤伶』"位卑未敢忘忧国……"（cover：HITA）【小希小桃】
+https://www.bilibili.com/video/BV1Vm4y1T7zV | 😇YYB式初音 - 人家才不是恶魔呢👿
+https://www.bilibili.com/video/BV1114y1C7mL | [机翻] 微软基础 C# 认证免费课程
+https://www.bilibili.com/video/BV18j411B7TF | LLVM编译器入门（一）：LLVM整体设计
+https://www.bilibili.com/video/BV127411j7SH | 握笔姿势+运力技巧｜超详细指南，享受书写的快感吧！
+https://www.bilibili.com/video/BV1eK4y197wo | 【20款邮差包分享】城市必备实用通勤单肩斜挎包揭秘
+https://www.bilibili.com/video/BV1Hh4y177dD | 武装你的夏天!2023硬核直男实用装备指南
+https://www.bilibili.com/video/BV1pX4y1j7YS | 【图解指针1】c语言指针。画图的方式理解指针，没有，拒绝枯燥的概念，3年级小学生都能听懂的指针，快来看看呀！！
+https://www.bilibili.com/video/BV19F411y7sq | iEDA-水滴计划：C++常用知识点
+https://www.bilibili.com/video/BV1j14y1T7Wg | 谁能让宋美龄在美国当众出丑？
+https://www.bilibili.com/video/BV1tj411q7BT | 【前端小野森森】《移动端滚动选择器》从TS到Vue3+TS【前端基础】
+https://www.bilibili.com/video/BV1tp4y1E7aB | 面向新手-计算机科学中的100+概念解释
+https://www.bilibili.com/video/BV1Uh4y1S7ZY | 【前端小野森森】移动端日期滚动选择器的实现【TypeScript】
+https://www.bilibili.com/video/BV1Q841197av | TypeScript零基础入门 轻松搞定ts
+https://www.bilibili.com/video/BV1Zk4y137QQ | 一小时读完《JavaScript高级程序设计（第四版）》（红宝书）
+https://www.bilibili.com/video/BV1MX4y1v73r | golden hour
+https://www.bilibili.com/video/BV11m4y1h7bW | 基础差必背2000词！3天背完，你的英语就稳了！高效记忆！
+https://www.bilibili.com/video/BV1pP411p7RK | 【懒人法】20天 100句 背完高考3500词 毫不费力！还能提高听力阅读哦~
+https://www.bilibili.com/video/BV1hh4y1r7am | 学完C++后的进阶路线-初学者勿入【程序员Rock】
+https://www.bilibili.com/video/BV1Zz4y1u7Uc | 【珠峰手写系列】微前端-从源码到实战
+https://www.bilibili.com/video/BV1Ah4y1T7Lj | typescript + ffmpeg 多个视频总时长计算，使用electron与vue3开发的桌面视频合并软件技术分享
+https://www.bilibili.com/video/BV19r4y197SQ | 2022前端TypeScript QF顶配版TS入门视频教程
+https://www.bilibili.com/video/BV1th4y1D7eG | C/C++读写数据之你不知道的坑
+https://www.bilibili.com/video/BV1uN4y1d7Lj | [labuladong] vscode 算法刷题插件简介
+https://www.bilibili.com/video/BV1Y44y1m7gt | 《离骚》全文：屈原大夫千古！
+https://www.bilibili.com/video/BV1Rp4y1J7kh | 已完结 SpringBoot3整合QQ机器人（IDEA 2023 最新版）快速上手改善自己的Q群管理
+https://www.bilibili.com/video/BV1Vz4y1u79P | LyCORIS作者帶你玩轉Stable Diffusion──第零集
+https://www.bilibili.com/video/BV1Du4y1q7YJ | 使用Windows构建高效的Linux开发环境
+https://www.bilibili.com/video/BV1Jz4y1u7Lz | iptables核心运作原理和数据包过滤方法
+https://www.bilibili.com/video/BV1yP411s79t | 【小野森森Go/Java】『进制』深度学习指南【语言基础】
+https://www.bilibili.com/video/BV1w44y1w7EU | 【小野森森Go】颠覆认知的Golang【Go基础】
+https://www.bilibili.com/video/BV1ju411J7fC | [C++基础补充] C++标准库速览
+https://www.bilibili.com/video/BV1nj411B7Yi | 【前端小野森森】Canvas实现线性柱状图【前端基础】
+https://www.bilibili.com/video/BV1u8411s7mo | 永不，分离 【剧情MV】
+https://www.bilibili.com/video/BV16u4y1U7tJ | 盲目自学只会毁了你！2023一套针对萌新的【C/C++】教程,强烈建议学习！学完即可就业，只可白嫖！！！C语言零基础入门
+https://www.bilibili.com/video/BV18m4y1L76w | VSCode搭建c/c++开发环境 新手向视频
+https://www.bilibili.com/video/BV1L841127V2 | 【Effective Modern C++】啃书第三章：移步现代C++
+https://www.bilibili.com/video/BV1dP411x7X2 | 【开源项目】Qt智能家居案例。源码请从简介获取。
+https://www.bilibili.com/video/BV1644y1c7pp | 每天5分钟了解现代C++新特性 - 第1章  新基础类型
+https://www.bilibili.com/video/BV19M4y1s7S2 | 全平台划词翻译和OCR软件pot-app——Windows下完美体验展示
+https://www.bilibili.com/video/BV1wp4y1L7MQ | 【3d特摄短片】一雪前耻的奥特之父！奥特之父再战希波利特星人
+
+
+https://www.bilibili.com/video/BV1Nu4y1q7a1 | CMake如何引用外部库？对象库是啥？生成器表达式是啥？
+https://www.bilibili.com/video/BV1g44y1c7az | 在写一种很新的代码
+https://www.bilibili.com/video/BV1xz411z7cp | KSL Live World 2016 ~the Animation Charlotte & Rewrite~【官方字幕/1080p】
+https://www.bilibili.com/video/BV1Tu411n7J5 | 网聊2月女孩见面出角色和我逛漫展，虎狼之词...【直男改造15】
+https://www.bilibili.com/video/BV1pF411f7yD | 面试必备！每个人都应该掌握的快速调研法
+https://www.bilibili.com/video/BV1ZV411g72y | 基于 WebAssembly 构建 Web 端音视频通话引擎
+https://www.bilibili.com/video/BV17X4y1j7Lr | 你一定是自愿加班的吧👉(ᗜ ˰ ᗜ)
+https://www.bilibili.com/video/BV1kK411L756 | 【VSCode】跨平台一步到位 VSCode C++ 开发环境配置
+https://www.bilibili.com/video/BV1Yp4y1V79Y | 开发提效工具推荐
+https://www.bilibili.com/video/BV1Xj411X7jb | 23年11月软考，无非就是考这些！（全部都有电子版））现在就开始备考！有｜系统集成｜高项｜软件设计｜网络工程｜架构师｜系统分析｜程序员｜数据库｜等，分享给大家
+https://www.bilibili.com/video/BV1Xh4y1D7DH | 【CodeSurfer】Node-API for WebAssembly
+https://www.bilibili.com/video/BV1JY411w7n3 | 【前端开发】Vue3『插件化』方法动态操作组件【Vue专题】
+https://www.bilibili.com/video/BV1qX4y1L7j8 | 【八段锦】但是UP主《平凡的一天》带练版
+https://www.bilibili.com/video/BV12o4y1x7Mv | C语言零基础入门
+https://www.bilibili.com/video/BV1Vm4y1r7jY | C语言程序设计从入门到进阶【比特鹏哥c语言2023完整版视频教程】（c语言基础入门c语言软件安装C语言指针c语言考研C语言专升本C语言期末计算机二级C语言c语言
+https://www.bilibili.com/video/BV13W4y127Ey | 数据结构与算法 已完结（CLion 2022 最新版）4K蓝光画质+杜比音效 全程高能
+https://www.bilibili.com/video/BV1kV4y1C7z6 | 5小时掌握数据结构所需要的C语言基础|C语言速成|考研数据结构408数据结构|C语言期末
+https://www.bilibili.com/video/BV1W64y1z7jh | UP从0到1带你手撕数据结构全集(C语言版)
+https://www.bilibili.com/video/BV1bM411u7Ki | C语言代码实现严蔚敏数据结构-考研就业均适用
+https://www.bilibili.com/video/BV1v94y1Y7tN | 牛客_C语言_指针_链表_结构体_刷题
+https://www.bilibili.com/video/BV1P94y1y7LD | 在Linux上怎么实现C语言的malloc函数
+https://www.bilibili.com/video/BV1oz4y1j7C2 | 【C/C++游戏项目】别踩白块小游戏！新手小白入门必备小项目！
+https://www.bilibili.com/video/BV1W64y197Mp | 磁带试听张信哲1995年歌曲《宽容》——个人认为情歌王子最经典的一首歌，谁赞成，谁反对？
+https://www.bilibili.com/video/BV1Mu411p7cV | react完整课程，从基础到实战高效通关(有vue基础)
+https://www.bilibili.com/video/BV12X4y1L76Q | 【哔哩助理】Windows 上的 B 站小工具
+https://www.bilibili.com/video/BV1Zj41197b1 | 如何使整个Windows文件资源管理器半透明
+https://www.bilibili.com/video/BV1oK411g78p | 【1920P+无损音质】张信哲《用情》MV
+https://www.bilibili.com/video/BV1Qd4y1C7GK | 【周传雄 陆虎】《雪落下的声音》（我们的歌4）
+https://www.bilibili.com/read/cv267970670 | 2次重塑
+https://www.bilibili.com/video/BV1NX4y1675p | 张信哲一首《忘情忘爱》，忧伤唯美歌声，承载多少人的青春岁月！
+https://www.bilibili.com/video/BV1F8411S7Bs | 观察者模式在函数式编程有多简单实现？
+https://www.bilibili.com/video/BV1J14y1974x | 【矩阵】总共22条公式，逐项推导！掌握秒杀矩阵题！
+https://www.bilibili.com/video/BV1Lv4y1H7SK | Typescript类型系统还不会？工具函数不会写？本视频帮你帮你搞定面试的手写类型工具！
+https://www.bilibili.com/video/BV1i24y1L7uG | VSCode | 日常工作流分享
+https://www.bilibili.com/video/BV19T411r7PN | go语言，Golang从入门到高级
+https://www.bilibili.com/video/BV1Cr4y137os | C语言程序设计 已完结（CLion 2022 最新版）4K蓝光画质+杜比音效 梦开始的地方
+https://www.bilibili.com/video/BV1xX4y1o71e | 【崩坏3】终章杂谈录播——奥托的定位，梅的剧透和凯文的底色
+https://www.bilibili.com/video/BV1o84y1w7m6 | 【已完结】node.js高级进阶/加薪课程（下）
+https://www.bilibili.com/video/BV1Lg4y1u7yp | 用Go连接mysql数据库
+https://www.bilibili.com/video/BV1784y137J4 | 无损音乐国语经典-张学友《秋意浓》
+https://www.bilibili.com/video/BV1Vs4y1Z7HB | 俗说矩阵：B站最宝藏的线性代数视频系列！一学就懂！
+https://www.bilibili.com/video/BV1vj411r7n2 | 【星穹夏日联欢盛典】危险且优雅
+https://www.bilibili.com/video/BV1hh4y1r7be | 【星穹夏日联欢盛典】小小丹恒竟敢……你是龙王!!!
+https://www.bilibili.com/video/BV16N411h7Bh | 【星穹夏日联欢盛典】浮云朝露「花开彼岸，迄于遐方」
+https://www.bilibili.com/video/BV1mN411h7d5 | 【星穹夏日联欢盛典】「记忆中的我们」
+https://www.bilibili.com/video/BV1M94y1C7L8 | 【星穹夏日联欢盛典】你是我以生命所绘的重要之物
+https://www.bilibili.com/video/BV1P14y1z7bE | 【星穹夏日联欢盛典】剧情短片「春樱花落处，痴心待归人」
+https://www.bilibili.com/video/BV11N411h7j6 | 【星穹夏日联欢盛典】【卡芙卡-星穹/动画手书】螺旋丝-星穹铁道
+https://www.bilibili.com/video/BV1Xu411H7gs | 【星穹夏日联欢盛典】When the Flower Blooms 当花朵盛开时
+https://www.bilibili.com/video/BV1Yz4y1s7av | 【星穹夏日联欢盛典】列车组的奇怪星球冒险日志
+https://www.bilibili.com/video/BV1RV411G77S | 【星穹夏日联欢盛典】耗时30天！在纸上玩星穹
+https://www.bilibili.com/video/BV1yX4y177xV | 【星穹夏日联欢盛典】So Addictive
+https://www.bilibili.com/video/BV1h8411d78N | 【星穹夏日联欢盛典】水墨短片·哉
+https://www.bilibili.com/video/BV1b8411d7J7 | 【星穹夏日联欢盛典】起猛了 一上来就看见克拉拉在揍爷
+https://www.bilibili.com/video/BV1xp4y137qe | 【星穹夏日联欢盛典】春水拾剑录
+https://www.bilibili.com/video/BV1394y1C7Fk | 【星穹夏日联欢盛典】Cure For Me【动画MEME】
+https://www.bilibili.com/video/BV1kp4y1V7nQ | 【星穹夏日联欢盛典】一镜到底漫画书！
+https://www.bilibili.com/video/BV1ip4y1V72v | 【星穹夏日联欢盛典】一分钟屏息挑战
+https://www.bilibili.com/video/BV1tz4y1p7NG | 【星穹夏日联欢盛典】以此烈火，开拓星穹——鬼灭之刃x星穹铁道
+https://www.bilibili.com/video/BV1MM4y1p7fi | 【星穹夏日联欢盛典】高端黑客往往采取朴素的骇入方式
+https://www.bilibili.com/video/BV1NF411f7Bd | 【星穹夏日联欢盛典】Phantom Light
+https://www.bilibili.com/video/BV15h4y1r767 | 【星穹夏日联欢盛典】娘，您闺女被人欺负了，嘤嘤嘤
+https://www.bilibili.com/video/BV1xu411p7JR | 【星穹夏日联欢盛典】我的老师——卡老师
+https://www.bilibili.com/video/BV1FV4y1q7Vz | 【星穹夏日联欢盛典】旭日再临  Sunset Return
+https://www.bilibili.com/video/BV1JV411G73g | 【星穹夏日联欢盛典】动画微电影：朋克洛德禁闭岛
+https://www.bilibili.com/video/BV1ah4y1r7pL | 【星穹夏日联欢盛典】《星铁大逃杀》豆瓣2.8
+https://www.bilibili.com/video/BV1q94y1C7dM | 【星穹夏日联欢盛典】PV向星穹铁道同人【影】
+https://www.bilibili.com/video/BV1Tk4y1g7za | 【星穹夏日联欢盛典】爆肝1536张沙画，还原崩铁最燃BOSS战
+https://www.bilibili.com/video/BV1fx4y1X7Wh | 原创galgame《梦之彼方-fate prologue》角色介绍PV——“名为回忆的梦”
+https://www.bilibili.com/video/BV1mN411h7TY | 【阿众】一款最近很火的王炸级浏览器插件，太实用了！
+https://www.bilibili.com/video/BV1nM4y1p7YP | 【舞小喵】竖屏-I AM-西装又飒又A
+https://www.bilibili.com/read/cv10792443 | 不二神探
+https://www.bilibili.com/video/BV1j44y1w7v1 | 【前端】WebWorker与ServiceWorker
+https://www.bilibili.com/video/BV1pm4y1W7xY | 【直播回放】小可爱来了 2023年8月4日21点场
+https://www.bilibili.com/read/cv892361614 | 孤独摇滚！
+https://www.bilibili.com/video/BV1hi4y1k7Ho | 【蓝桥杯】ACM算法专家带300人集训10天，从8届真题挑选了这66道进行攻坚，看完视频小白也能去水一水国赛
+https://www.bilibili.com/video/BV18a411r7mt | 也许是B站最好的Obsidian新手教程！爆肝30天，一站式入门双向链接笔记软件
+https://www.bilibili.com/video/BV1rW4y1o7Jx | Lattics-"类脑式"知识管理和写作
+https://www.bilibili.com/read/cv1219721872 | 封神之路
+https://www.bilibili.com/video/BV1BV411G7Q5 | 使用 gitlab CI/CD 将 3 个项目自动化部署到线上全过程演示
+https://www.bilibili.com/video/BV1wu411p7X9 | 【8月/夏日泳装】胜利女神：妮姬「SEA, YOU, AGAIN」动画PV【1080P】
+https://www.bilibili.com/video/BV18V41157ZC | 好了，现在只有上帝看得懂了
+https://www.bilibili.com/video/BV1Aj411r71b | 【入门篇】Docker网络模式Linux - Bridge | Host | None
+https://www.bilibili.com/video/BV1V8411d7Zw | 【小野森森】Canvas『截图功能』的实现【前端基础】
+https://www.bilibili.com/video/BV1FP411t7os | 【改模配布】🤪大板鸭ol❤️
+https://www.bilibili.com/video/BV1vk4y1G7Hf | 1分钟学会函数指针与回调函数（上）
+https://www.bilibili.com/video/BV1Tz4y1s7QW | Linux Systemd完全入门 ｜ 一个视频搞懂systemd的使用
+https://www.bilibili.com/video/BV1Bu4y1m7gq | 【编译原理】基于BNF的语法高亮
+https://www.bilibili.com/video/BV1Su4y1y71G | 【ai】套壳实现“ai音箱”
+https://www.bilibili.com/video/BV1Bv411J7j1 | 东北特色炸串配方大公开！油泼料、辣酱、甜面酱配方解密
+https://www.bilibili.com/read/cv1213459462 | C++中高级工程师，直通Offer
+https://www.bilibili.com/read/cv1213812390 | C++中高级工程师，直通Offer
+https://www.bilibili.com/video/BV1Jv41117Zu | 跟腾讯架构大师学网络框架与后台架构
+https://www.bilibili.com/video/BV1GC4y1h7k7 | C语言整数之精髓（取值范围、输出、库函数、随机数）
+https://www.bilibili.com/video/BV1ZP411e7VT | 【百万好评】国外大佬竟把C++讲的如此通俗详细！整整300集，草履虫都能听懂！入门到精通看这个就够了，油管技术大佬分享（已翻译）
+https://www.bilibili.com/read/cv1178344881 | 【开学特惠】ACM金牌带你零基础直达C语言精通
+https://www.bilibili.com/video/BV1ZV4y1b7Lc | 【油管大神】国外600万收藏的C++编程小项目实战 ( C++ Projects )，新手自学一周即可做出属于自己的项目，比刷剧还爽！！
+https://www.bilibili.com/video/BV1Lx4y1X7P6 | 20 分钟系统了解 gitlab 多环境 CICD 自动化部署
+https://www.bilibili.com/video/BV16T4y1w7wm | 解决C/C++指针的一切问题
+https://www.bilibili.com/video/BV1tp4y1i7rL | C/C++语言项目实战基础
+https://www.bilibili.com/video/BV1oN411Q7Yz | 数据结构（考研、面试、刷题必学）
+https://www.bilibili.com/video/BV1cJ411R7s1 | 【代码优化】字符串中数组与指针的区别
+https://www.bilibili.com/video/BV1SJ411y72V | [C语言]
+https://www.bilibili.com/video/BV1PK411s7BK | 【C语言】指针？结构体指针？链表？十分钟你还没学会？
+https://www.bilibili.com/video/BV1r3411y7wb | 一节课学会C语言核心：链表
+https://www.bilibili.com/read/cv1019091975 | 【备战秋招冲刺】ACM大牛带你玩转算法与数据结构
+https://www.bilibili.com/read/cv253395044 | 《数据结构》期末4小时讲完附赠讲义
+https://www.bilibili.com/read/cv247905335 | 《数据结构》期末4小时讲完附赠讲义
+https://www.bilibili.com/read/cv841183361 | 《计算机网络》期末4小时讲完附赠讲义
+https://www.bilibili.com/video/BV1mz4y1W7Jv | 给天选国v一点电脑使用的指导，不要再当C盘战士了好不好？
+https://www.bilibili.com/video/BV1dX4y1E7YP | 现代C++类接口设计（群作业第五题讲解）
+https://www.bilibili.com/video/BV1wN411m7SA | C++入门教程 2023
+https://www.bilibili.com/video/BV18x4y1977v | 从零搭建一个c/c++工程--合集
+https://www.bilibili.com/video/BV1Vg4y1w7Hx | 不愧是国外公认最好的C/C++学习速成教程，Github项目排名第一，油管550W粉丝收藏，直接学习拿走不谢……
+https://www.bilibili.com/video/BV1vh4y177Gw | 如果在学C语言/C++ 之前，就知道看到这些那该多好！国外大佬C++技术教程，油管百万级收藏！
+https://www.bilibili.com/video/BV1F94y1i7iq | 前端如何用时间切片优化项目速度
+https://www.bilibili.com/video/BV1TP41167nG | 【小野森森】2D场景化交互之『Canvas画板』【前端基础】
+https://www.bilibili.com/read/cv1190634944 | 【限时特惠】鬼谷的生物演化课
+https://www.bilibili.com/video/BV1Wg4y1c7Qm | 【C语言教程】54节9小时C语言视频课程，3万人都在学习的C语言入门教程，全部动画讲解，C语言程序设计！C语言基础！谭浩强C语言！编程！计算机二级！专升本C
+https://www.bilibili.com/video/BV1gN411U7GK | std::function与函数指针的用法--每日一个C++/AI知识点
+https://www.bilibili.com/video/BV1dP411r7Lf | C++ Timer 高效定时器
+https://www.bilibili.com/video/BV18X4y1J7kX | C++程序员需要了解的Visual Studio高效调试手段与技巧（上）
+https://www.bilibili.com/video/BV1qL411B7Vy | nestjs中的资源验证，使用守卫、装饰器、自定义策略，功能灵活又简单【早八点分享】
+https://www.bilibili.com/video/BV1Sg411T7X8 | [AMV/BTS] - 花樣年華
+https://www.bilibili.com/video/BV1o8411x7K3 | 花38元找一个C++老师，可一对一答疑
+https://www.bilibili.com/video/BV1fV4y1Z7Lc | 【4K60FPS】张学友《吻别》早期封神现场！人生必看的现场
+https://www.bilibili.com/video/BV1wV411L7er | “新人”如何系统学习C++20？
+

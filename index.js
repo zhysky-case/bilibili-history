@@ -53,4 +53,4 @@ await (async function historyTo(time) {
     return;
   }
 })(now);
-await writeFile(historyFileName + '.json', JSON.stringify(list, null, 2));
+await writeFile(historyFileName + '.json', JSON.stringify(list, null, 2));  
