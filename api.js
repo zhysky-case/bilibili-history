@@ -8,10 +8,8 @@ NODE_ENV === 'development'
 export const getHistory = (view_at) => fetch(`https://api.bilibili.com/x/web-interface/history/cursor?view_at=${view_at}`, {
   "headers": {
     "accept": "*/*",
-    "accept-language": "zh-CN,zh;q=0.9",
-    "cache-control": "no-cache",
-    "pragma": "no-cache",
-    "sec-ch-ua": "\"Not_A Brand\";v=\"99\", \"Google Chrome\";v=\"109\", \"Chromium\";v=\"109\"",
+    "accept-language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-ch-ua": "\"Not A(Brand\";v=\"99\", \"Microsoft Edge\";v=\"121\", \"Chromium\";v=\"121\"",
     "sec-ch-ua-mobile": "?0",
     "sec-ch-ua-platform": "\"Windows\"",
     "sec-fetch-dest": "empty",
