@@ -11,3 +11,12 @@ export async function fileIsExist(fileName) {
     return false;
   }
 }
+
+
+
+
+export function padTimestamp(timestamp) {
+  const timestampString = timestamp.toString();
+  const paddedTimestamp = timestampString.padEnd(13, '0');
+  return paddedTimestamp;
+}
